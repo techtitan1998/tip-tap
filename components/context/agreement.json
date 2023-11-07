@@ -1,0 +1,46 @@
+{
+  "type": "doc",
+  "from": 0,
+  "to": 233,
+  "content": [
+    {
+      "type": "paragraph",
+      "from": 0,
+      "to": 77,
+      "content": [
+        {
+          "type": "text",
+          "from": 1,
+          "to": 76,
+          "text": "This is still the text editor you’re used to, but enriched with node views."
+        }
+      ]
+    },
+    {
+      "type": "reactComponent",
+      "from": 77,
+      "to": 150,
+      "content": [
+        {
+          "type": "text",
+          "from": 78,
+          "to": 149,
+          "text": "This is editable. You can create a new component by pressing Mod+Enter."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "from": 150,
+      "to": 231,
+      "content": [
+        {
+          "type": "text",
+          "from": 151,
+          "to": 230,
+          "text": "Did you see that? That’s a React component. We are really living in the future."
+        }
+      ]
+    }
+  ]
+}
